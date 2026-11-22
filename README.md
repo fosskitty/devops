@@ -2,6 +2,10 @@
 
 A simple Java 21 + Maven + Spring Boot project for DevOps workflows.
 
+## Project Status
+
+This project is being developed as part of a DevOps assignment.
+
 ## Prerequisites
 
 - Java 21
