@@ -18,7 +18,7 @@ public class Application {
 
     @GetMapping("/hello")
     public String hello() {
-        return "Hello! My DevOps project is running.";
+        return "Hello! Welcome to my DevOps project.";
     }
 
     @GetMapping("/health")
